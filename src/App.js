@@ -1,7 +1,9 @@
 import React from 'react';
+import './App.css'
+import PostList from './components/PostList';
 
 function App() {
-    return <h1>Hello Tere</h1>
+    return <PostList />
 }
 
 export default App;

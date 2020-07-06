@@ -1,4 +1,10 @@
 body{
-    background: #000;
+    background: #FFF;
+    color: #000;
+}
+
+header{
+    background: #3b5998 ;
     color: #FFF;
+    font-family:  Helvetica, Arial, sans-serif;
 }
