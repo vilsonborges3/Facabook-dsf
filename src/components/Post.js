@@ -18,7 +18,8 @@ function Post({ post }){
                     </p>
                 </div>
             </div>
-            {post.content}
+            <div>{post.content}</div>
+            
             {
                 post.comments.map( comment => 
                     <Comment 
