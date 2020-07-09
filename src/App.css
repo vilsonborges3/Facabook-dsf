@@ -1,8 +1,6 @@
 body{
     background: #FFF;
     color: #000;
-    align-items: center;
-    align-content: center; 
 }
 
 header{
@@ -10,16 +8,40 @@ header{
     color: #FFF;
     font-family:  Helvetica, Arial, sans-serif;
 }
-#container {
+#container{
     background: #ececec;
-    color: #000;
-    width: 600px;
 }
 
 #logo{
-    width: 35px;
+    width: 34px;
+    border-radius: 30px;
+}
+#divLogo{
+    margin-right: 7px;
 }
 
 #textdate{
     opacity: 0.3;
+}
+
+div{
+    display: inline-block; 
+}
+
+#post{
+    background: #FFF;
+    margin-top: 30px;
+    color: #000;
+    width: 600px; 
+    margin-left: 5px;
+    border-radius: 3px;
+}
+
+#photoAndName{
+    
+}
+
+#nameAndDate{
+    
+
 }
