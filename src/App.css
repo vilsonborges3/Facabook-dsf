@@ -18,6 +18,8 @@ header{
 }
 #divLogo{
     margin-right: 7px;
+    display: inline-block;
+
 }
 
 #textdate{
@@ -25,7 +27,7 @@ header{
 }
 
 div{
-    display: inline-block; 
+    
 }
 
 #post{
@@ -35,6 +37,7 @@ div{
     width: 600px; 
     margin-left: 5px;
     border-radius: 3px;
+     
 }
 
 #photoAndName{
@@ -42,6 +45,5 @@ div{
 }
 
 #nameAndDate{
-    
-
+    display: inline-block;
 }
